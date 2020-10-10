@@ -1,0 +1,22 @@
+/* CSS styles we add here will be shown throughout the app. */
+/* Feel free to check this our for some more guidance on writing CSS styles */
+/* https://www.w3schools.com/css/css_intro.asp */
+
+
+/* This style applies to both h1 and p tags */
+h1, p {
+  font-family: Lato;
+}
+
+/* This only applies to p tags */
+p {
+  color: black;
+}
+
+h1 {
+  /* Black is the default text color, so this style does nothing...perhaps change the color? */
+  /* CSS built-in colors: */
+  /* https://www.w3schools.com/cssref/css_colors.asp */
+  color: black;
+}
+
