@@ -1,5 +1,11 @@
 # Workshop 4: Intro Frontend Development
 
+**Workshop External Resources**
+
+  *  **Youtube Recording**: [https://youtu.be/If-Ir0UGU_A](https://youtu.be/If-Ir0UGU_A)
+  *  **Slides**: [https://docs.google.com/presentation/d/1vjyrYvydJ1cE061qeL7tjAB85MeoePw2JYYMB9YfmEQ/edit?usp=sharing](https://docs.google.com/presentation/d/1vjyrYvydJ1cE061qeL7tjAB85MeoePw2JYYMB9YfmEQ/edit?usp=sharing)
+  * **Oasis Starting Guide**: [https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev)
+
 Congratulations on taking your NEXT step in the world of web development! Creating browser-based apps and experiences is an extremely rewarding process and one of the most popular ways to make software that many can easily access.
 
 The interactive portion of this workshop will focus on learning the basics of React, one of the most popular libraries available for creating responsive frontend applications. We will be making a classic—but essential—intro project: a to-do app.
@@ -36,8 +42,3 @@ Well done finishing the workshop! You now have the necessary skills to create ba
 ## If you couldn't make the workshop
 
 If you were not able to attend, don't worry! There are still many great ways to get started using React. The React official website has a good tutorial for [getting started](https://reactjs.org/). You can also read more about frontend development in the [Ultimate Oasis Starting Guide](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev). Good luck!
-
-## Workshop Resources
-
-  *  Youtube Recording: 
-  *  Slides: [https://docs.google.com/presentation/d/1vjyrYvydJ1cE061qeL7tjAB85MeoePw2JYYMB9YfmEQ/edit?usp=sharing](https://docs.google.com/presentation/d/1vjyrYvydJ1cE061qeL7tjAB85MeoePw2JYYMB9YfmEQ/edit?usp=sharing)

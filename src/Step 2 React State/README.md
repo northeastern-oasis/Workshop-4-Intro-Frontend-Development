@@ -12,8 +12,9 @@ At this point we've created some components, but they don't do much beyond rende
 
 State is where you store property values that belong to a component. State is different than just a variable--React keeps track of it behind-the-scenes when you create it for a component. You can add as many values to the state as you want, and the state can hold any type of value: numbers, strings, booleans, objects, arrays, even other components!
 
-When you update the state, **the component automatically re-renders**. This is a huge deal, and part of what makes React so useful! For example, imagine you have a timer component that keeps track of the time in the state. All you have to do is update the state to change the current time at certain intervals, and if your JSX display the time value it will automatially show it. Doing this in plain HTML/JavaScript would be a ton more work--you would need to manually check when the value updates, grab the element that needs updating in the HTML file, and change its inner HTML every time.
-**see slides**
+When you update the state, **the component automatically re-renders**. This is a huge deal, and part of what makes React so useful! For example, imagine you have a timer component that keeps track of the time in the state. All you have to do is update the state to change the current time at certain intervals, and if your JSX displays the time value it will automatially show it. Doing this in plain HTML/JavaScript would be a ton more work--you would need to manually check when the value updates, grab the element that needs updating in the HTML file, and change its inner HTML every time. *Tedious*
+
+**See slides for more info**
 
 ## Creating State
 
